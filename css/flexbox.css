@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    
+    
+}
+
+.items{
+    background-color: rgb(190, 180, 241);
+    width: 600px;
+    height: 400px;
+    margin: 10px;
+
+}
+
+
