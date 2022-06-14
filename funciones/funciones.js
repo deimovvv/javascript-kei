@@ -209,7 +209,7 @@ alert(nuevoPrecio); */
  
 
 
-/* 
+
  let precio = prompt('ingrese precio de producto')
 alert('DESCUENTO DE 20% EN CASO DE COMPRAR 5 PRODUCTOS O MAS')
 let cantidadTotal = prompt('ingrese cantidad de producto')
@@ -228,7 +228,7 @@ let sumaProducto = (p, p1) => {
 
 let precioTotal = sumaProducto(precio, cantidadTotal)
 alert(precioTotal) 
- */
+ 
 
 
 //                 10               5
@@ -236,7 +236,7 @@ alert(precioTotal)
 
 
 
-/* let ingreseProducto = prompt('ingresar producto')
+let ingreseProducto = prompt('ingresar producto')
 alert('Precio pollera $1200')
 let precio = 1200
 
@@ -250,7 +250,7 @@ const calculo = (precio, cuotas) => {
 
 let cadaCuota = calculo(precio, cuotas)
 alert('Cada cuota te va a quedar en : $ ' + cadaCuota)
- */
+ 
 
 
 /* alert('Hola Alumno, voy a calcular tu nota final')
